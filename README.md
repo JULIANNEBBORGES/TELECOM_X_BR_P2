@@ -11,6 +11,13 @@ A proposta consiste em analisar os dados da empresa fictícia **Telecom X**, ide
 - 📦 [Dados dos Clientes (JSON)](https://github.com/ingridcristh/challenge2-data-science/blob/main/TelecomX_Data.json)
 - 📘 [Dicionário de Dados](https://github.com/ingridcristh/challenge2-data-science/tree/main)
 
+## 🔗 Desafio Anterior
+
+Este projeto é a continuação do desafio anterior:
+
+**📊 Análise de Evasão de Clientes (Churn) - Telecom X | Parte 1**  
+🔗 [Repositório Parte 1](https://github.com/JULIANNEBBORGES/CHALLENGE_TELECOM_X_BR-)- 
+
 ## 🧠 Estrutura do Projeto
 
 O notebook está dividido em etapas que refletem o fluxo completo de um projeto de ciência de dados:
@@ -62,6 +69,8 @@ O projeto demonstrou como técnicas de ciência de dados podem ser aplicadas par
 
 **Juliane Borges**  
 Aluna do projeto **ONE - Oracle Next Education**  
+💼 [GitHub](http://github.com/JULIANNEBBORGES)  
+📎 [LinkedIn](https://www.linkedin.com/in/julianebb)
 📍 Porto Alegre, RS - Brasil
 
 
