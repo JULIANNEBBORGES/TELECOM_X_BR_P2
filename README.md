@@ -71,7 +71,7 @@ O projeto demonstrou como técnicas de ciência de dados podem ser aplicadas par
 Aluna do projeto **ONE - Oracle Next Education**  
 💼 [GitHub](http://github.com/JULIANNEBBORGES)  
 📎 [LinkedIn](https://www.linkedin.com/in/julianebb)
-📍 Porto Alegre, RS - Brasil
+
 
 
 
