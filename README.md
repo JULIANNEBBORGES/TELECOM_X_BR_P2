@@ -59,7 +59,13 @@ Com base nos insights, foram propostas ações para redução da evasão:
 1. Acesse o notebook no [GitHub](https://github.com/JULIANNEBBORGES/TELECOM_X_BR_P2/blob/main/Telecom_X_%7C_Previs%C3%A3o_de_Evas%C3%A3o_de_Clientes_(Churn)_Parte_2_.ipynb)
 2. Abra no [Google Colab](https://colab.research.google.com/) ou ambiente Jupyter
 3. Certifique-se de importar os dados da [API JSON](https://github.com/ingridcristh/challenge2-data-science/blob/main/TelecomX_Data.json)
-4. Execute as células sequencialmente
+4. Execute as células sequencialmente 
+
+## 📘 Visualização Interativa
+
+Você pode acessar e executar este projeto diretamente no Google Colab:
+
+🔗 [Abrir notebook no Google Colab](https://colab.research.google.com/drive/1IqsisYIbGYNtBo07WPEDIz0lVorff7gL?usp=sharing)
 
 ## ✅ Conclusão
 
