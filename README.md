@@ -8,7 +8,7 @@ A proposta consiste em analisar os dados da empresa fictícia **Telecom X**, ide
 
 ## 🔗 Fontes de Dados
 
-- 📦 [Dados dos Clientes (JSON)](https://github.com/ingridcristh/challenge2-data-science/blob/main/TelecomX_Data.json)
+- 📦 [[Dados dos Clientes]](https://github.com/JULIANNEBBORGES/TELECOM_X_BR_P2/blob/main/df_cleaned.csv)
 - 📘 [Dicionário de Dados](https://github.com/ingridcristh/challenge2-data-science/tree/main)
 
 ## 🔗 Desafio Anterior
@@ -23,7 +23,7 @@ Este projeto é a continuação do desafio anterior:
 O notebook está dividido em etapas que refletem o fluxo completo de um projeto de ciência de dados:
 
 1. **Preparação do Ambiente:** Importação de bibliotecas e configuração inicial.
-2. **Extração dos Dados:** Leitura do arquivo JSON via API.
+2. **Extração dos Dados:** Leitura do arquivo df_cleaned.csv
 3. **ETL - Desaninhamento e Limpeza:** Transformação dos dados aninhados em estrutura tabular.
 4. **Verificação e Conversão de Tipos:** Ajuste de tipos, remoção de espaços e tratamento de valores nulos.
 5. **Análise Exploratória (EDA):** Estatísticas descritivas, visualizações e correlações.
@@ -58,8 +58,8 @@ Com base nos insights, foram propostas ações para redução da evasão:
 
 1. Acesse o notebook no [GitHub](https://github.com/JULIANNEBBORGES/TELECOM_X_BR_P2/blob/main/Telecom_X_%7C_Previs%C3%A3o_de_Evas%C3%A3o_de_Clientes_(Churn)_Parte_2_.ipynb)
 2. Abra no [Google Colab](https://colab.research.google.com/) ou ambiente Jupyter
-3. Certifique-se de importar os dados da [API JSON](https://github.com/ingridcristh/challenge2-data-science/blob/main/TelecomX_Data.json)
-4. Execute as células sequencialmente 
+3. Certifique-se de importar os dados dos cliente - df_cleaned.csv disponéveis em (https://github.com/JULIANNEBBORGES/TELECOM_X_BR_P2/blob/main/df_cleaned.csv)
+4. Execute as células sequencialmente. 
 
 ## 📘 Visualização Interativa
 
