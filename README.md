@@ -20,7 +20,7 @@ Este projeto é a continuação do desafio anterior:
 
 ##📝 Estrutura do Projeto
 
-O notebook (`Telecom_X_Previsão_de_Evasão_de_Clientes_(Churn)_Parte_2_.ipynb`) está cuidadosamente estruturado em etapas que refletem o fluxo completo de um projeto de ciência de dados, garantindo clareza e reprodutibilidade:
+O notebook (TelecomX_|_Previsão_Evasão_Clientes_(Churn)_P2_.ipynb`) está cuidadosamente estruturado em etapas que refletem o fluxo completo de um projeto de ciência de dados, garantindo clareza e reprodutibilidade:
 
 1.  **Preparação do Ambiente e Importação de Bibliotecas**Configuração inicial e carregamento de todas as bibliotecas necessárias para manipulação de dados, visualização, pré-processamento e modelagem.
 2.  **Extração e Análise Preliminar do Dataset**Carregamento dos dados e uma primeira inspeção para entender a estrutura, tipos de dados e identificar valores ausentes.
