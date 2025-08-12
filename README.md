@@ -18,7 +18,7 @@ Este projeto é a continuação do desafio anterior:
 **📊 Análise de Evasão de Clientes (Churn) - Telecom X | Parte 1**
 🔗 [Repositório Parte 1](https://github.com/JULIANNEBBORGES/CHALLENGE_TELECOM_X_BR-)
 
-## �� Estrutura do Projeto
+##📝 Estrutura do Projeto
 
 O notebook (`Telecom_X_Previsão_de_Evasão_de_Clientes_(Churn)_Parte_2_.ipynb`) está cuidadosamente estruturado em etapas que refletem o fluxo completo de um projeto de ciência de dados, garantindo clareza e reprodutibilidade:
 
@@ -92,7 +92,7 @@ Para aprimorar ainda mais este projeto e sua aplicabilidade prática, sugerimos 
 6.  **Análise de Custo-Benefício**: Quantificar o impacto financeiro potencial das ações de retenção baseadas nas previsões do modelo, demonstrando o ROI (Retorno sobre Investimento) da iniciativa de forma clara para a gestão.
 7.  **Exploração de Outros Modelos**: Considerar modelos mais avançados ou específicos, como LightGBM, XGBoost, ou redes neurais, se o desempenho e os requisitos do negócio justificarem a complexidade adicional.
 
-## ��‍💻 Autor
+## ♀️ Autor
 
 **Juliane Borges**
 Aluna do projeto **ONE - Oracle Next Education**
